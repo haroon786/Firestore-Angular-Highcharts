@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestore-angular-highcharts": {
+      "hosting": {
+        "Firestore-Angular-Highcharts": [
+          "firestore-angular-highcharts"
+        ]
+      }
+    }
+  }
+}

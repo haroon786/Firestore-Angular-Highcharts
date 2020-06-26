@@ -118,8 +118,13 @@
               "devServerTarget": "Firestore-Angular-Highcharts:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "Firestore-Angular-Highcharts"
 }
